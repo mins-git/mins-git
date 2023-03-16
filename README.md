@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Welcome to my story!</h1>
 
-<p>I'm Min! I'm interested in application and web development, and I live in South Korea!.</p>
+<p>I'm Min! I'm interested in application and web development, and I live in South Korea!</p>
 <p>I love having conversations, so please feel free to contact me anytime! Haha :)</p>
 
 <h3>Things I code with</h3>
