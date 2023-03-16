@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Welcome to my world!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Welcome to my story!</h1>
 
-<p>I am Demuu who is interested in Web Developer from south korea.</p>
-<p>if you want to contact me, please leave me a message!</p>
+<p>I'm Min! I'm interested in application and web development, and I live in South Korea!.</p>
+<p>I love having conversations, so please feel free to contact me anytime! Haha :)</p>
 
 <h3>Things I code with</h3>
 <!-- <p>
@@ -43,8 +43,8 @@
 
 <div align="center">
     
-![mins's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preasim&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preasim&layout=compact&theme=buefy)
+![mins's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins-git&layout=compact&theme=buefy)
     
 </div>
 
