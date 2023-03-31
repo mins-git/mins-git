@@ -1,8 +1,32 @@
+<div align="center">
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=mins%20💖&fontSize=50&fontAlign=50&desc=Backend%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
+
+</br>
+
+### 🖥Where to find me🖥
+
+<a href="https://github.com/mins-git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://mins-git.github.io/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<!-- <a href="https://discord.gg/JzPKxJcdpe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> -->
+
+
+<div align="center">
+</br></br>
+
+### 🎈About Me🎈
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Welcome to my story!</h1>
 
 <p>I'm Min! I'm interested in application and web development, and I live in South Korea!</p>
 <p>I love having conversations, so please feel free to contact me anytime! Haha :)</p>
 
+
+
+</br></br></br>
+
+
+### 📚Tech Stacks📚
 <h3>Things I code with</h3>
 <!-- <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -31,12 +55,8 @@
 
 <div align="center">
 
-<h3>Where to find me</h3>
-<a href="https://github.com/mins-git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://mins-git.github.io/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<!-- <a href="https://discord.gg/JzPKxJcdpe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> -->
-    
-</div>
+
+</br></br>
 
 <br>
 <br>
@@ -45,6 +65,12 @@
     
 ![mins's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins-git&layout=compact&theme=buefy)
-    
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
+
 </div>
+
+
+
 
