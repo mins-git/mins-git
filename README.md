@@ -62,10 +62,10 @@
 <br>
 <br>
 
-<div align="center">
-    
-![mins's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins-git&layout=compact&theme=buefy)
+![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins-git&layout=compact&theme=dracula)
+<!-- ![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=buefy) -->
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
