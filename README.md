@@ -1,77 +1,66 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=mins%20🦄&fontSize=50&fontAlign=50&desc=Passionate%20Backend%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=mins%20🦄&fontSize=50&fontAlign=50&desc=Backend%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
+### 🔍 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mins-git)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://mininkorea.tistory.com/)
 
-</br>
+<h2>💫 About Me</h2>
 
-### 🖥Where to find me🖥
-
-<a href="https://github.com/mins-git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<!-- <a href="https://mins-git.github.io/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
-<a href="https://mininkorea.tistory.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<!-- <a href="https://discord.gg/JzPKxJcdpe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> -->
-
-
-<div align="center">
-</br></br>
-
-### 🎈About Me🎈
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Welcome to my story!</h1>
+```
+"Passionate about crafting clean code as a backend developer."
+```
 
 
 
+### 📚 Education
+**SSAFY (Samsung Software Academy For Youth) 👨‍💻** | 2024.07 ~ <BR>
+12기 교육생<BR>
+실무 중심의 소프트웨어 교육 과정 이수 중<BR>
+프로젝트 기반 학습을 통한 실전 개발 역량 강화<BR>
+<BR>
+### 💻 Tech Stack
 
-</br></br></br>
+#### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
+#### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### 📖Tech Stacks📖
-<h3>Things I code with</h3>
-<!-- <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-    <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-    <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-</p> -->
-<p>  
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<!--     <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> -->
-</p>
-<p>     
-    <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-<!--     <img alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> -->
-    <img alt="GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-</p>
-<p><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></p>
+#### Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🏃‍♂️ Algorithm Journey
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=m2ins)](https://solved.ac/m2ins/)
 
-<div align="center">
+<h3>📘 Daily Algorithm Challenge</h3>
 
+[![Algorithm Study](https://github-readme-stats.vercel.app/api/pin/?username=mins-git&repo=DailyAlgorithmChallenge&theme=dracula)](https://github.com/mins-git/DailyAlgorithmChallenge)
 
-</br></br>
+### 📊 GitHub Stats
 
-<br>
-<br>
+<div style="display: flex; justify-content: center; gap: 10px;">
 
 ![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins-git&layout=compact&theme=dracula)
-<!-- ![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=mins-git&show_icons=true&theme=buefy) -->
 
+</div>
+
+---
+
+<h3>🌱 Currently Learning</h3>
+
+- Studying Java algorithms
+- Learning Python(Django),Java(Spring) backend development
+- Exploring Django and SQL basics
+- Preparing for ADSP and SQLD certifications
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
 
 </div>
-
-
-
-
