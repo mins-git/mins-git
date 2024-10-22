@@ -15,11 +15,10 @@
 
 
 ### 📚 Education
-**SSAFY (Samsung Software Academy For Youth) 👨‍💻** | 2024.07 ~ <BR>
-12기 교육생<BR>
-실무 중심의 소프트웨어 교육 과정 이수 중<BR>
-프로젝트 기반 학습을 통한 실전 개발 역량 강화<BR>
-<BR>
+**삼성 청년 SW 아카데미 (Samsung Software Academy For Youth) 👨‍💻** <br>
+**12기 교육생 [2024.07 ~ ing] <BR>**
+
+
 ### 💻 Tech Stack
 
 #### Backend Development
@@ -42,7 +41,7 @@
 
 [![Algorithm Study](https://github-readme-stats.vercel.app/api/pin/?username=mins-git&repo=DailyAlgorithmChallenge&theme=dracula)](https://github.com/mins-git/DailyAlgorithmChallenge)
 
-### 📊 GitHub Stats
+### 📊 mins-git's Stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
