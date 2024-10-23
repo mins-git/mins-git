@@ -21,8 +21,19 @@
 
 ### 💻 Tech Stack
 
+#### Frontend Development
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" /></div>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+
 #### Backend Development
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /></div>
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%20?style=flat-square&logo=python&logoColor=white&color=%23092E20)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
