@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=mins%20🦄&fontSize=50&fontAlign=50&desc=Passionate%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=mins%20🦄&fontSize=50&fontAlign=50&desc=Joyful%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
 
 ### 🔍 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mins-git)
